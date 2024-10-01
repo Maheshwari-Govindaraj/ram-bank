@@ -2,6 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
+  "description": "A frontend application built with React, Vite, and Tailwind CSS for an online banking project.",
   "type": "module",
   "scripts": {
     "dev": "vite",
