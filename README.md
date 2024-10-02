@@ -40,7 +40,7 @@ The application implements industry-standard security features, including two-fa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/ram-bank.git
+   git clone https://github.com/gokulappavu/ram-bank.git
 2. **Install dependencies**:
 - ***For the frontend***:
     ```bash
